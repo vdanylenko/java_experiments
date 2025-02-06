@@ -1,1 +1,1 @@
-# java_experiments
+Various classes with experimental code for the language features that tickled my curiosity :)
